@@ -21,7 +21,7 @@ Comparar los datos en el simulador como en los resultados calculados y realizar 
 
 2.- Marco Teórico
 
-[![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
+[![1-15.jpg](https://i.postimg.cc/PrC4YN4Y/1-15.jpg)](https://postimg.cc/HVCXCYFk)
 
 3.- Diagramas
 
@@ -40,10 +40,12 @@ Corriente que circula por malla 3.
 Circuito con todos los elementos de medida.
 
 [![1-6.jpg](https://i.postimg.cc/G3jc1mn0/1-6.jpg)](https://postimg.cc/0rbgYxNZ)
+
 4. Lista de componentes
 
 
 [![1-8.jpg](https://i.postimg.cc/hPycfZGp/1-8.jpg)](https://postimg.cc/F7L26Z3L)
+
 5.- Explicación
 
 5.1.- Procedimiento
@@ -80,8 +82,8 @@ Desde el lado negativo de la fuente de voltaje se conectará a la resistencia de
 
 La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas.
 Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida.
+[![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
 
-image
 
 5.3.- Compare los valores de la tabla y realice sus conclusiones.
 
