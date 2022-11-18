@@ -1,33 +1,46 @@
 # laboratorio-2
 Jose Pilaguano
+
 Sahid Carrion
+
 Henry Macías
+
 Objetivos:
 
 1.- Objetivo General
 
 Estudiar el comportamiento de la corriente en las distintas mallas ayudandose de los simuladores para comprobar con los resultados analíticos.
+
 1.1.- Objetivos específicos
 
 Identificar los nodos que contiene cada circuito para realizar el cálculo de las mallas.
+
 Analizar y distinguir las mallas en el circuito para poder resolverlo .
+
 Comparar los datos en el simulador como en los resultados calculados y realizar el cálculo del error.
+
 2.- Marco Teórico
-[![1-2.jpg](https://i.postimg.cc/gkL7dg1C/1-2.jpg)](https://postimg.cc/8jD4mmp4)
-[![1-1.jpg](https://i.postimg.cc/ZRYgS4hH/1-1.jpg)](https://postimg.cc/yJ5nhqx3)
+
+[![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
+
 3.- Diagramas
+
 Corriente que circula por malla 1.
+
 [![1-3.jpg](https://i.postimg.cc/Qt6zNw83/1-3.jpg)](https://postimg.cc/S2MdDZYT)
 
 Corriente que circula por malla 2.
+
 [![1-4.jpg](https://i.postimg.cc/ZYMQ1GsP/1-4.jpg)](https://postimg.cc/Bt2NFV0t)
+
 Corriente que circula por malla 3.
+
 [![1-5.jpg](https://i.postimg.cc/NFSPmX2C/1-5.jpg)](https://postimg.cc/hQ8rqfrV)
 
 Circuito con todos los elementos de medida.
 
 [![1-6.jpg](https://i.postimg.cc/G3jc1mn0/1-6.jpg)](https://postimg.cc/0rbgYxNZ)
-4.- Lista de componentes.
+4. Lista de componentes
 
 
 [![1-8.jpg](https://i.postimg.cc/hPycfZGp/1-8.jpg)](https://postimg.cc/F7L26Z3L)
@@ -65,24 +78,34 @@ Desde el lado negativo de la fuente de voltaje se conectará a la resistencia de
 
 [![1-9.png](https://i.postimg.cc/fyQj7vTP/1-9.png)](https://postimg.cc/hzMdcTm8)
 
-La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas. Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida.
+La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas.
+Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida.
 
 image
 
 5.3.- Compare los valores de la tabla y realice sus conclusiones.
 
-En conclusión, como se puede observar en la tabla, los valores varian por unos decimales. Esto es debido a que en el programa Tinkercad redondea hasta dos decimales, de esa manera perdiendo muchas cifras significativas. Mientras tanto, cuando realizamos los resultados analíticos, utilizamos como máximo 3 decimales, por lo que omitimos muchos de ellos, entonces al seguir realizando los cálculos nos puede marcar un pequeño error porcentual. Al ser valores muy próximos y al solo variar por decimales, el error porcentual es muy bajo y en algunos casos nulo, debido a que encanja perfectamente en ambos casos de resultados analíticos y resultados experimentales.
+En conclusión, como se puede observar en la tabla, los valores varian por unos decimales. Esto es debido a que en el programa Tinkercad redondea hasta dos decimales, de esa manera perdiendo muchas cifras significativas.
+Mientras tanto, cuando realizamos los resultados analíticos, utilizamos como máximo 3 decimales, por lo que omitimos muchos de ellos, entonces al seguir realizando los cálculos nos puede marcar un pequeño error porcentual. 
+Al ser valores muy próximos y al solo variar por decimales, el error porcentual es muy bajo y en algunos casos nulo, debido a que encanja perfectamente en ambos casos de resultados analíticos y resultados experimentales.
 
 Error porcentual malla 1.
-image
+
+[![1-10.png](https://i.postimg.cc/4NfPdBKL/1-10.png)](https://postimg.cc/Z0QpsPxp)
 
 Error porcentual malla 2.
-image
+
+[![1-11.png](https://i.postimg.cc/C5y2XDmy/1-11.png)](https://postimg.cc/mzwVFPvV)
 
 Error porcentual malla 3.
-image
 
-6.- Conclusiones
+[![1-12.png](https://i.postimg.cc/V6XgShBT/1-12.png)](https://postimg.cc/zbXK60QS)
+
+6. Vídeo
+7. 
+https://youtu.be/hlGrobf1XZk
+
+7.- Conclusiones
 
 En conclusión, cuando 2 o más elementos (como resistencias, leds, etc.) dentro de un circuito, ya sea serie, paralelo o mixto, están unidos son denominados nodos Y estos permitirán realizar los cálculos de una manera más ordenada.
 
@@ -90,7 +113,7 @@ Al analizar los datos que refleja el simulador, el cálculo de error no va más 
 
 Concluimos que, al utilizar el método de circuitos de malla, estas se pueden subdividir dependiendo de los nodos y los elementos que conforman el circuito.
 
-7.- Bibliografía
+8.- Bibliografía
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
